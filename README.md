@@ -1,4 +1,4 @@
-[![Edi Carlos's GitHub stats](https://github-readme-stats.vercel.app/api?username=ediCarlosSilva)](https://github.com/anuraghazra/github-readme-stats)
+[![Edi Carlos's GitHub stats](https://github-readme-stats.vercel.app/api?username=ediCarlosSilva)](https://github.com/ediCarlosSilva/github-readme-stats)
 
 - 👋 Hi, I’m @ediCarlosSilva
 - 👀 I’m interested in developing.
