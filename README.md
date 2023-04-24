@@ -3,13 +3,16 @@
 - 🌱 I’m currently learning many things.
 - 💞️ I’m looking to collaborate on everything. Ask me.
 - 📫 How to reach me edi_csilva@hotmail.com
-
-<!---
-ediCarlosSilva/ediCarlosSilva is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
-
 [![LinkedIn][linkedin-shield]][linkedin-url]
+
+* HTML
+
+* CSS <br>
+[![Bootstrap][Bootstrap.com]][Bootstrap-url]
+
+* javascript <br>
+[![React][React.js]][React-url] [![JQuery][JQuery.com]][JQuery-url]
+
 
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
