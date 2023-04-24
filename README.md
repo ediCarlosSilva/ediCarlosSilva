@@ -1,5 +1,3 @@
-[![Edi Carlos's GitHub stats](https://github-readme-stats-at9qu8msr-edicarlossilva.vercel.app/api?username=anuraghazra)](https://github.com/ediCarlosSilva/github-readme-stats)
-
 - 👋 Hi, I’m @ediCarlosSilva
 - 👀 I’m interested in developing.
 - 🌱 I’m currently learning many things.
