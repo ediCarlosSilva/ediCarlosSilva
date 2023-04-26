@@ -5,6 +5,7 @@
 - 📫 How to reach me edi_csilva@hotmail.com
 [![LinkedIn][linkedin-shield]][linkedin-url]
 
+<!--
 * HTML
 
 * CSS <br>
@@ -12,6 +13,7 @@
 
 * javascript <br>
 [![React][React.js]][React-url] [![JQuery][JQuery.com]][JQuery-url]
+-->
 
 
 <!-- MARKDOWN LINKS & IMAGES -->
